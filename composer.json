@@ -1,0 +1,16 @@
+{
+    "name": "michaeldeepak/limelight",
+    "description": "Smartpurge api for limelight control.",
+    "keywords": ["limelight","smartpurge","smart purge","cdn","purge","cache","sdk"],
+    "type": "library",
+    "license": "APACHE",
+    "authors": [
+        {
+            "name": "Michael Deepak",
+            "homepage": "https://www.linkedin.com/in/michaeldeepak"
+        }
+    ],
+    "require": {
+        "php": ">=5.5"
+    }
+}
