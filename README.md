@@ -12,7 +12,7 @@ Limelight smartpurge library for PHP
 
 
 ```bash
-# cone from githup
+# clone from githup
 git clone https://github.com/michaeldeepak/limelight.git
 ```
 
