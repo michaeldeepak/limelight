@@ -3,7 +3,7 @@
     "description": "Smartpurge api for limelight control.",
     "keywords": ["limelight","smartpurge","smart purge","cdn","purge","cache","sdk"],
     "type": "library",
-    "license": "APACHE",
+    "license": "Apache-2.0",
     "authors": [
         {
             "name": "Michael Deepak",
